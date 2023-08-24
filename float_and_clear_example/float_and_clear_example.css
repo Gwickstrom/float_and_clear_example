@@ -1,0 +1,12 @@
+#wrapper{
+  width:960px;
+  background-color:yellow;
+}
+.content{
+  width:320px;
+  background-color:orange;
+  float:left;
+}
+.clear{
+  clear:both;
+}
